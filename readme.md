@@ -1,0 +1,1 @@
+A simple notpad using python and tkinter
